@@ -9,6 +9,7 @@
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
+      <h1>DEV2 Darbas</h1>
       <li>
         <a
           href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
